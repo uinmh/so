@@ -173,7 +173,7 @@ public class MemberDepositInsertFrame extends JFrame {
           }catch (Exception e) {
               
               JOptionPane.showMessageDialog(this, 
-                      "YYYY-MM-DD 로 입력해주세요.",
+                      "다시 입력해주세요.",
                       "Error",
                       JOptionPane.ERROR_MESSAGE);
               
